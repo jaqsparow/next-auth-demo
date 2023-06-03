@@ -12,7 +12,7 @@ export default function App({
   return (
     <>
       <Head>
-        <title>URIOK.com - Free URL Shortening Service</title>
+        <title>Next Auth Demo Example</title>
       </Head>
 
       <div className="max-w-xl mx-auto px-4 dark:text-gray-300 text-gray-600">
